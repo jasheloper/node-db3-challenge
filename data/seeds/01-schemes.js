@@ -1,4 +1,4 @@
-
+3
 exports.seed = function(knex) {
   return knex('schemes').insert([
     {scheme_name: 'World Domination'},
