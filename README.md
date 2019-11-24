@@ -1,4 +1,4 @@
-# Multi-Table Queries and Database Helpers - Jashele Tillman 👋
+# Multi-Table Queries and Database Helpers - Jashele Tillman 👋🤓
 
 ## Topics
 
